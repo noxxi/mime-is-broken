@@ -18,20 +18,26 @@ could be used to bypass a security product.
 
 ## Format of generated Mails
 
-- each mails contains a subject like
-  [1] multipart-basic-singlepart-b64h-basic-base64-ws-space eicar.zip 2022-05-18 23:07
-   |      |                                                   |         |
-   |      |                                                   |         |- generated
-   |      |                                                   |- attachment
-   |      |- id describing the kind of test
-   |- validity level
-- each mail contains a similar X-Payload header, which also has the md5 over the
-  content for later checking if the content was changed during transfer
-  X-Payload-Id: multipart-basic-singlepart-b64h-basic-base64-ws-space valid(1)  md5(tSLKcoU0Lv+ZD4iR+BKYDA) eicar.zip 2022-05-18 23:07
+Each mails contains a subject like
 
-- The validity level can be
-  - 3: totally valid, no tricks. Used to make sure that analysis works at all
-  - 2: fully conforming to standard, but some edge cases
-  - 1: likely not like the standard was meant to be used, but not actually off
-  - 0: definitely off from standard, but implementations might still interpret
-       it in a somehow meaningful way
+```
+[1] multipart-basic-singlepart-b64h-basic-base64-ws-space eicar.zip 2022-05-18 23:07
+ |      |                                                   |         |
+ |      |                                                   |         |- generated
+ |      |                                                   |- attachment
+ |      |- id describing the kind of test
+ |- validity level
+```
+
+Each mail contains a similar X-Payload header, which also has the md5 over the content for later checking if the content was changed during transfer
+
+```
+X-Payload-Id: multipart-basic-singlepart-b64h-basic-base64-ws-space valid(1)  md5(tSLKcoU0Lv+ZD4iR+BKYDA) eicar.zip 2022-05-18 23:07
+```
+
+The validity level can be
+
+- 3: totally valid, no tricks. Used to make sure that analysis works at all
+- 2: fully conforming to standard, but some edge cases
+- 1: likely not like the standard was meant to be used, but not actually off
+- 0: definitely off from standard, but implementations might still interprete it in a somehow meaningful way
