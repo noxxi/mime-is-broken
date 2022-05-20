@@ -1,0 +1,28 @@
+From: me
+To: you
+Subject: [0] multipart-basic-singlepart-qph-basic-qp-O2=HO eicar.zip 2022-05-18 23:07
+Mime-Version: 1.0
+Message-Id: <21d94482.f8556.6285601d@example.com>
+X-Payload-Id: multipart-basic-singlepart-qph-basic-qp-O2=HO valid(0)  md5(0kcqyEtVpR+uRM0ytv2CEw) eicar.zip 2022-05-18 23:07
+Content-type: multipart/mixed; boundary=boundary_78251f19
+
+--boundary_78251f19
+Content-type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+ABCD=0=0901234=0=3D56789=0=20=0=2098765=0=3D43210=0=20=0=3D=0=20=0=3D=0X=0Y=0=20=0S=0o=0me=0=20=0m=0o=0re=0=20=0te=0x=0t=0==0
+=0=0A=0==0
+=0
+--boundary_78251f19
+Content-type: application/octet-stream
+Content-Disposition: attachment; filename="eicar.zip"
+Content-Transfer-Encoding: quoted-printable
+
+=0P=0K=0=03=0=04=0=14=0=00=0=02=0=00=0=08=0=00=0=11=0J=0=8E=0I=0<=0=CF=0Q=0hF=0=00=0=00=0=00D=0=00=0=00=0=00=0=09=0=00=0=00=0=00e=0ic=0==0
+a=0r=0.c=0o=0m=0=8B0=0=F5=0W=0=0C=0P=0u=0p=0=0C=0=886=0=89=0=09=0=88=0=8A05=0=D1=0=08=0=88=0=D34=0w=0v=0=D64=0=AF=0U=0q=0=F5=0t=0v=0=0C=0==0
+=0=D2=0=0D=0=0E=0q=0=F4=0s=0q=0=0C=0r=0=D1=0u=0=F4=0=0B=0=F1=0=0C=0=F3=0=0C=0=0A=0=0D=0=D6=0=0D=0q=0=0D=0=0E=0=D1=0u=0=F3=0=F4=0q=0U=0T=0==0
+=0=F1=0=D0=0=F6=0=D0=0=02=0=00=0P=0K=0=01=0=02=0=14=0=03=0=14=0=00=0=02=0=00=0=08=0=00=0=11=0J=0=8E=0I=0<=0=CF=0Q=0hF=0=00=0=00=0=00D=0==0
+=0=00=0=00=0=00=0=09=0=00=0=00=0=00=0=00=0=00=0=00=0=00=0=00=0=00=0=00=0=00=0=B6=0=81=0=00=0=00=0=00=0=00e=0ica=0r=0.c=0o=0m=0P=0K=0==0
+=0=05=0=06=0=00=0=00=0=00=0=00=0=01=0=00=0=01=0=007=0=00=0=00=0=00=0m=0=00=0=00=0=00=0=00=0=00=0==0
+=0
+--boundary_78251f19--

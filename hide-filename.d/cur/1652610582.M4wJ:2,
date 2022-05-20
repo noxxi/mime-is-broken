@@ -1,0 +1,21 @@
+X-Payload-Id: fname-cdisp.png valid(3)  md5(XbGB8U7X8t0p53bACPSsxg) 2022-05-15 12:29
+From: me
+To: you
+Subject: [3] fname-cdisp.png 2022-05-15 12:29
+Mime-Version: 1.0
+Message-Id: <e7a70aea.c4964.6280d616@example.com>
+Content-type: multipart/mixed; boundary=1234567890asdfghjkl
+
+--1234567890asdfghjkl
+Content-type: text/plain
+Content-Disposition: attachment; filename=file.png
+Content-Transfer-Encoding: base64
+
+VGhpcyBjb3VsZCBiZSBhIGZpbGUgbmFtZWQgJ3Rlc3QudHh0Jw==
+--1234567890asdfghjkl
+Content-type: application/octet-stream
+Content-Disposition: attachment; filename=file.png
+Content-Transfer-Encoding: base64
+
+VGhpcyBjb3VsZCBiZSBhIGZpbGUgbmFtZWQgJ3Rlc3QuemlwJw==
+--1234567890asdfghjkl--

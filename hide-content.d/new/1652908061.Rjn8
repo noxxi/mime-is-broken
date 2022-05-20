@@ -1,0 +1,17 @@
+From: me
+To: you
+Subject: [0] multi.uuencode eicar.zip 2022-05-18 23:07
+Mime-Version: 1.0
+Message-Id: <2a37262a.f8556.6285601d@example.com>
+X-Payload-Id: multi.uuencode valid(0)  md5(sNaicofC9Tbkky6WLEYIGg) eicar.zip 2022-05-18 23:07
+
+ABCD	01234=56789  98765=43210 = =XY Some more text
+
+---
+begin 644 eicar.zip
+M4$L#!!0``@`(`!%*CDD\SU%H1@```$0````)````96EC87(N8V]MBS#U5PQ0
+M=7`,B#:)"8B*,#71"(C3-'=VUC2O57'U='8,T@T.<?1S<0QRT77T"_$,\PP*
+M#=8-<0T.T77S]'%55/'0]M`"`%!+`0(4`Q0``@`(`!%*CDD\SU%H1@```$0`
+M```)``````````````"V@0````!E:6-A<BYC;VU02P4&``````$``0`W````
+&;0``````
+end

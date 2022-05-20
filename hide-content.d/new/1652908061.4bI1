@@ -1,0 +1,14 @@
+From: me
+To: you
+Subject: [0] multi.yenc eicar.zip 2022-05-18 23:07
+Mime-Version: 1.0
+Message-Id: <a631133c.f8556.6285601d@example.com>
+X-Payload-Id: multi.yenc valid(0)  md5(I396NdeWIcYxW0feqJXkHA) eicar.zip 2022-05-18 23:07
+
+ABCD	01234=56789  98765=43210 = =XY Some more text
+
+---
+=ybegin line=128 size=186 name=eicar.zip
+zu-.>*,*2*;t¸sfù{’p***n***3***“‹œX™—µZ6zŸš6²`³3²´Z_û2²ı^¡ =@^Ù› 6ü78››6œûŸ56647=@7›78ûŸ›~ú=`ú,*zu+,>->*,*2*;t¸s
+fù{’p***n***3***********à«****“‹œX™—zu/0****+*+*a***—*****
+=yend size=186

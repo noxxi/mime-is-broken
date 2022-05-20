@@ -1,0 +1,19 @@
+X-Payload-Id: fname-ctype.rfc2231.*E valid(2)  md5(l7Z+OIWH8VTZ5G77U0WbHA) 2022-05-15 12:29
+From: me
+To: you
+Subject: [2] fname-ctype.rfc2231.*E 2022-05-15 12:29
+Mime-Version: 1.0
+Message-Id: <c69da1f8.c4964.6280d616@example.com>
+Content-type: multipart/mixed; boundary=1234567890asdfghjkl
+
+--1234567890asdfghjkl
+Content-type: text/plain; name*=''file.%74%78%74
+Content-Transfer-Encoding: base64
+
+VGhpcyBjb3VsZCBiZSBhIGZpbGUgbmFtZWQgJ3Rlc3QudHh0Jw==
+--1234567890asdfghjkl
+Content-type: application/octet-stream; name*=''file.%7A%69%70
+Content-Transfer-Encoding: base64
+
+VGhpcyBjb3VsZCBiZSBhIGZpbGUgbmFtZWQgJ3Rlc3QuemlwJw==
+--1234567890asdfghjkl--

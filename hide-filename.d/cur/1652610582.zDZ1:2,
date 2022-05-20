@@ -1,0 +1,19 @@
+X-Payload-Id: fname-ctype.png valid(3)  md5(KX64+QjymMqrWvM7V5qCow) 2022-05-15 12:29
+From: me
+To: you
+Subject: [3] fname-ctype.png 2022-05-15 12:29
+Mime-Version: 1.0
+Message-Id: <f8f8945.c4964.6280d616@example.com>
+Content-type: multipart/mixed; boundary=1234567890asdfghjkl
+
+--1234567890asdfghjkl
+Content-type: text/plain; name=file.png
+Content-Transfer-Encoding: base64
+
+VGhpcyBjb3VsZCBiZSBhIGZpbGUgbmFtZWQgJ3Rlc3QudHh0Jw==
+--1234567890asdfghjkl
+Content-type: application/octet-stream; name=file.png
+Content-Transfer-Encoding: base64
+
+VGhpcyBjb3VsZCBiZSBhIGZpbGUgbmFtZWQgJ3Rlc3QuemlwJw==
+--1234567890asdfghjkl--

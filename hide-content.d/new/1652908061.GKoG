@@ -1,0 +1,82 @@
+From: me
+To: you
+Subject: [1] multipart-basic-singlepart-b64h-basic-base64-linelen-5 eicar.zip 2022-05-18 23:07
+Mime-Version: 1.0
+Message-Id: <5c553b7d.f8556.6285601d@example.com>
+X-Payload-Id: multipart-basic-singlepart-b64h-basic-base64-linelen-5 valid(1)  md5(6/V/bHrIdeGRHysi4AmKSw) eicar.zip 2022-05-18 23:07
+Content-type: multipart/mixed; boundary=boundary_6044490
+
+--boundary_6044490
+Content-type: text/plain
+Content-Transfer-Encoding: base64
+
+QUJDR
+AkwMT
+IzND0
+1Njc4
+OSAgO
+Tg3Nj
+U9NDM
+yMTAg
+PSA9W
+FkgU2
+9tZSB
+tb3Jl
+IHRle
+HQK
+--boundary_6044490
+Content-type: application/octet-stream
+Content-Disposition: attachment; filename="eicar.zip"
+Content-Transfer-Encoding: base64
+
+UEsDB
+BQAAg
+AIABF
+Kjkk8
+z1FoR
+gAAAE
+QAAAA
+JAAAA
+ZWljY
+XIuY2
+9tizD
+1VwxQ
+dXAMi
+DaJCY
+iKMDX
+RCIjT
+NHd21
+jSvVX
+H1dHY
+M0g0O
+cfRzc
+Qxy0X
+X0C/E
+M8wwK
+DdYNc
+Q0O0X
+Xz9HF
+VVPHQ
+9tACA
+FBLAQ
+IUAxQ
+AAgAI
+ABFKj
+kk8z1
+FoRgA
+AAEQA
+AAAJA
+AAAAA
+AAAAA
+AAAC2
+gQAAA
+ABlaW
+Nhci5
+jb21Q
+SwUGA
+AAAAA
+EAAQA
+3AAAA
+bQAAA
+AAA
+--boundary_6044490--

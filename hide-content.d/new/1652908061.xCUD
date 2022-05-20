@@ -1,0 +1,25 @@
+From: me
+To: you
+Subject: [0] multipart-basic-singlepart-x-yencode eicar.zip 2022-05-18 23:07
+Mime-Version: 1.0
+Message-Id: <c29be7f4.f8556.6285601d@example.com>
+X-Payload-Id: multipart-basic-singlepart-x-yencode valid(0)  md5(aLdqIvgcZGcj+JywSIO/CQ) eicar.zip 2022-05-18 23:07
+Content-type: multipart/mixed; boundary=boundary_ed8a720e
+
+--boundary_ed8a720e
+Content-type: text/plain
+Content-Transfer-Encoding: x-yencode
+
+=ybegin line=128 size=51 name=file.bin
+klmn3Z[\]^g_`abcJJcba`_g^]\[ZJgJg‚ƒJ}™—J—™œJ¢4
+=yend size=51
+--boundary_ed8a720e
+Content-type: application/octet-stream
+Content-Disposition: attachment; filename="eicar.zip"
+Content-Transfer-Encoding: x-yencode
+
+=ybegin line=128 size=186 name=file.bin
+zu-.>*,*2*;t¸sfù{’p***n***3***“‹œX™—µZ6zŸš6²`³3²´Z_û2²ı^¡ =@^Ù› 6ü78››6œûŸ56647=@7›78ûŸ›~ú=`ú,*zu+,>->*,*2*;t¸s
+fù{’p***n***3***********à«****“‹œX™—zu/0****+*+*a***—*****
+=yend size=186
+--boundary_ed8a720e--

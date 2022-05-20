@@ -1,0 +1,41 @@
+From: me
+To: you
+Subject: [1] multipart-rfc2231-enc*M*-singlepart-b64h-basic-base64-mixedlen eicar.zip 2022-05-18 23:07
+Mime-Version: 1.0
+Message-Id: <c137f479.f8556.6285601d@example.com>
+X-Payload-Id: multipart-rfc2231-enc*M*-singlepart-b64h-basic-base64-mixedlen valid(1)  md5(YtNRlnTrSH3D1u0lfWQZXw) eicar.zip 2022-05-18 23:07
+Content-type: multipart/mixed; boundary*0*=''boundary%5F; boundary*1*=4baba0f5
+
+--boundary_4baba0f5
+Content-type: text/plain
+Content-Transfer-Encoding: base64
+
+QUJD
+RAkw
+MTIzND01
+Njc4OSAg
+OTg3NjU9NDMyMTAg
+PSA9WFkgU29tZSBt
+b3JlIHRleHQK
+--boundary_4baba0f5
+Content-type: application/octet-stream
+Content-Disposition: attachment; filename="eicar.zip"
+Content-Transfer-Encoding: base64
+
+UEsD
+BBQA
+AgAIABFK
+jkk8z1Fo
+RgAAAEQAAAAJAAAA
+ZWljYXIuY29tizD1
+VwxQdXAMiDaJCYiKMDXRCIjTNHd21jSv
+VXH1dHYM0g0OcfRzcQxy0XX0C/EM8wwK
+DdYNcQ0O0XXz9HFVVPHQ9tACAFBLAQIUAxQAAgAIABFKjkk8z1FoRgAAAEQAAAAJ
+AAAA
+AAAA
+AAAAAAC2
+gQAAAABl
+aWNhci5jb21QSwUG
+AAAAAAEAAQA3AAAA
+bQAAAAAA
+--boundary_4baba0f5--

@@ -1,0 +1,28 @@
+From: me
+To: you
+Subject: [3] multipart-basic-singlepart-qph-basic-qp-basic eicar.zip 2022-05-18 23:07
+Mime-Version: 1.0
+Message-Id: <f5fe9d96.f8556.6285601d@example.com>
+X-Payload-Id: multipart-basic-singlepart-qph-basic-qp-basic valid(3)  md5(ZeibKp6zl/2eL+rkL75MAQ) eicar.zip 2022-05-18 23:07
+Content-type: multipart/mixed; boundary=boundary_f9cbb226
+
+--boundary_f9cbb226
+Content-type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+ABCD=0901234=3D56789=20=2098765=3D43210=20=3D=20=3DXY=20Some=20more=20text=
+=0A=
+
+--boundary_f9cbb226
+Content-type: application/octet-stream
+Content-Disposition: attachment; filename="eicar.zip"
+Content-Transfer-Encoding: quoted-printable
+
+PK=03=04=14=00=02=00=08=00=11J=8EI<=CFQhF=00=00=00D=00=00=00=09=00=00=00eic=
+ar.com=8B0=F5W=0CPup=0C=886=89=09=88=8A05=D1=08=88=D34wv=D64=AFUq=F5tv=0C=
+=D2=0D=0Eq=F4sq=0Cr=D1u=F4=0B=F1=0C=F3=0C=0A=0D=D6=0Dq=0D=0E=D1u=F3=F4qUT=
+=F1=D0=F6=D0=02=00PK=01=02=14=03=14=00=02=00=08=00=11J=8EI<=CFQhF=00=00=00D=
+=00=00=00=09=00=00=00=00=00=00=00=00=00=00=00=B6=81=00=00=00=00eicar.comPK=
+=05=06=00=00=00=00=01=00=01=007=00=00=00m=00=00=00=00=00=
+
+--boundary_f9cbb226--

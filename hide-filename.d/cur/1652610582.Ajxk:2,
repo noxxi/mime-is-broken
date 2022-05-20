@@ -1,0 +1,19 @@
+X-Payload-Id: fname-ctype.kex1Gx2 valid(0)  md5(q/19Y2jWV77k5n+rn9y6pg) 2022-05-15 12:29
+From: me
+To: you
+Subject: [0] fname-ctype.kex1Gx2 2022-05-15 12:29
+Mime-Version: 1.0
+Message-Id: <114fefe8.c4964.6280d616@example.com>
+Content-type: multipart/mixed; boundary=1234567890asdfghjkl
+
+--1234567890asdfghjkl
+Content-type: text/plain; name=file.t(.gif)xt
+Content-Transfer-Encoding: base64
+
+VGhpcyBjb3VsZCBiZSBhIGZpbGUgbmFtZWQgJ3Rlc3QudHh0Jw==
+--1234567890asdfghjkl
+Content-type: application/octet-stream; name=file.z(.gif)ip
+Content-Transfer-Encoding: base64
+
+VGhpcyBjb3VsZCBiZSBhIGZpbGUgbmFtZWQgJ3Rlc3QuemlwJw==
+--1234567890asdfghjkl--

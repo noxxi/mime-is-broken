@@ -1,0 +1,23 @@
+From: me
+To: you
+Subject: [0] multipart-basic-singlepart-b64h-basic-base64-junk-colon eicar.zip 2022-05-18 23:07
+Mime-Version: 1.0
+Message-Id: <d5b207b8.f8556.6285601d@example.com>
+X-Payload-Id: multipart-basic-singlepart-b64h-basic-base64-junk-colon valid(0)  md5(wmJ3enFdnOmEYctONtnUuw) eicar.zip 2022-05-18 23:07
+Content-type: multipart/mixed; boundary=boundary_2ec6221e
+
+--boundary_2ec6221e
+Content-type: text/plain
+Content-Transfer-Encoding: base64
+
+Q:U:J:D:R:A:k:w:M:T:I:z:N:D:0:1:N:j:c:4:O:S:A:g:O:T:g:3:N:j:U:9:N:D:M:y:M:T:A:g:P:S:A:9:W:F:k:g:U:2:9:t:Z:S:B:t:b:3:J:l:I:H:R:l:e:H:Q:K:
+--boundary_2ec6221e
+Content-type: application/octet-stream
+Content-Disposition: attachment; filename="eicar.zip"
+Content-Transfer-Encoding: base64
+
+U:E:s:D:B:B:Q:A:A:g:A:I:A:B:F:K:j:k:k:8:z:1:F:o:R:g:A:A:A:E:Q:A:A:A:A:J:A:A:A:A:Z:W:l:j:Y:X:I:u:Y:2:9:t:i:z:D:1:V:w:x:Q:d:X:A:M:i:D:a:J:C:Y:i:K:M:D:X:R:
+C:I:j:T:N:H:d:2:1:j:S:v:V:X:H:1:d:H:Y:M:0:g:0:O:c:f:R:z:c:Q:x:y:0:X:X:0:C:/:E:M:8:w:w:K:D:d:Y:N:c:Q:0:O:0:X:X:z:9:H:F:V:V:P:H:Q:9:t:A:C:A:F:B:L:A:Q:I:U:
+A:x:Q:A:A:g:A:I:A:B:F:K:j:k:k:8:z:1:F:o:R:g:A:A:A:E:Q:A:A:A:A:J:A:A:A:A:A:A:A:A:A:A:A:A:A:A:C:2:g:Q:A:A:A:A:B:l:a:W:N:h:c:i:5:j:b:2:1:Q:S:w:U:G:A:A:A:A:
+A:A:E:A:A:Q:A:3:A:A:A:A:b:Q:A:A:A:A:A:A:
+--boundary_2ec6221e--

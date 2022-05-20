@@ -1,0 +1,25 @@
+From: me
+To: you
+Subject: [0] multipart-basic-singlepart-uuencode eicar.zip 2022-05-18 23:07
+Mime-Version: 1.0
+Message-Id: <35a9c58d.f8556.6285601d@example.com>
+X-Payload-Id: multipart-basic-singlepart-uuencode valid(0)  md5(QwAP/1ZubtlPc7WVjvG3xw) eicar.zip 2022-05-18 23:07
+Content-type: multipart/mixed; boundary=boundary_69b6bdf6
+
+--boundary_69b6bdf6
+Content-type: text/plain
+Content-Transfer-Encoding: uuencode
+
+M04)#1`DP,3(S-#TU-C<X.2`@.3@W-C4]-#,R,3`@/2`]6%D@4V]M92!M;W)E
+&('1E>'0*
+--boundary_69b6bdf6
+Content-type: application/octet-stream
+Content-Disposition: attachment; filename="eicar.zip"
+Content-Transfer-Encoding: uuencode
+
+M4$L#!!0``@`(`!%*CDD\SU%H1@```$0````)````96EC87(N8V]MBS#U5PQ0
+M=7`,B#:)"8B*,#71"(C3-'=VUC2O57'U='8,T@T.<?1S<0QRT77T"_$,\PP*
+M#=8-<0T.T77S]'%55/'0]M`"`%!+`0(4`Q0``@`(`!%*CDD\SU%H1@```$0`
+M```)``````````````"V@0````!E:6-A<BYC;VU02P4&``````$``0`W````
+&;0``````
+--boundary_69b6bdf6--

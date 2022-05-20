@@ -1,0 +1,22 @@
+From: me
+To: you
+Subject: [0] multipart-basic-singlepart-mac-binhex40 eicar.zip 2022-05-18 23:07
+Mime-Version: 1.0
+Message-Id: <c8b6de6a.f8556.6285601d@example.com>
+X-Payload-Id: multipart-basic-singlepart-mac-binhex40 valid(0)  md5(Yuk+lEQc/J9NdHliNulnDw) eicar.zip 2022-05-18 23:07
+Content-type: multipart/mixed; boundary=boundary_2d022da1
+
+--boundary_2d022da1
+Content-type: text/plain
+Content-Transfer-Encoding: mac-binhex40
+
+(This file must be converted with BinHex 4.0)
+:!!3r2cmr2cmr2`!!!!!!&3!!!!!U`8&58N&C+$"i069K0M3b0@3`0M8`+3!!:
+--boundary_2d022da1
+Content-type: application/octet-stream
+Content-Disposition: attachment; filename="eicar.zip"
+Content-Transfer-Encoding: mac-binhex40
+
+(This file must be converted with BinHex 4.0)
+:!!3r2cmr2cmr2`!!!!!!&3!!!!!U`8&58N&C+$"i069K0M3bC$KN0$%i+3!!:
+--boundary_2d022da1--

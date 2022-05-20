@@ -1,0 +1,23 @@
+From: me
+To: you
+Subject: [0] multipart-basic-singlepart-b64h-basic-base64-junk-underscore eicar.zip 2022-05-18 23:07
+Mime-Version: 1.0
+Message-Id: <be9aec14.f8556.6285601d@example.com>
+X-Payload-Id: multipart-basic-singlepart-b64h-basic-base64-junk-underscore valid(0)  md5(Y1G4eHbSMFemAScwm9SccQ) eicar.zip 2022-05-18 23:07
+Content-type: multipart/mixed; boundary=boundary_3b761be3
+
+--boundary_3b761be3
+Content-type: text/plain
+Content-Transfer-Encoding: base64
+
+Q_U_J_D_R_A_k_w_M_T_I_z_N_D_0_1_N_j_c_4_O_S_A_g_O_T_g_3_N_j_U_9_N_D_M_y_M_T_A_g_P_S_A_9_W_F_k_g_U_2_9_t_Z_S_B_t_b_3_J_l_I_H_R_l_e_H_Q_K_
+--boundary_3b761be3
+Content-type: application/octet-stream
+Content-Disposition: attachment; filename="eicar.zip"
+Content-Transfer-Encoding: base64
+
+U_E_s_D_B_B_Q_A_A_g_A_I_A_B_F_K_j_k_k_8_z_1_F_o_R_g_A_A_A_E_Q_A_A_A_A_J_A_A_A_A_Z_W_l_j_Y_X_I_u_Y_2_9_t_i_z_D_1_V_w_x_Q_d_X_A_M_i_D_a_J_C_Y_i_K_M_D_X_R_
+C_I_j_T_N_H_d_2_1_j_S_v_V_X_H_1_d_H_Y_M_0_g_0_O_c_f_R_z_c_Q_x_y_0_X_X_0_C_/_E_M_8_w_w_K_D_d_Y_N_c_Q_0_O_0_X_X_z_9_H_F_V_V_P_H_Q_9_t_A_C_A_F_B_L_A_Q_I_U_
+A_x_Q_A_A_g_A_I_A_B_F_K_j_k_k_8_z_1_F_o_R_g_A_A_A_E_Q_A_A_A_A_J_A_A_A_A_A_A_A_A_A_A_A_A_A_A_C_2_g_Q_A_A_A_A_B_l_a_W_N_h_c_i_5_j_b_2_1_Q_S_w_U_G_A_A_A_A_
+A_A_E_A_A_Q_A_3_A_A_A_A_b_Q_A_A_A_A_A_A_
+--boundary_3b761be3--
